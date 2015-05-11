@@ -343,7 +343,7 @@
 			"details": "https://github.com/mediaupstream/SublimeText-NodeEval",
 			"releases": [
 				{
-					"sublime_text": "<3000",
+					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
